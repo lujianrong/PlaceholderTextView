@@ -38,5 +38,8 @@ CGFloat _JRDegreesToRadians(CGFloat degrees);
  *  弧度转角度
  */
 CGFloat _JRRadiansToDegrees(CGFloat radians);
-
+/**
+ *  文字从左到右显示, 动画
+ */
++ (void)labAnimationWithLab:(UILabel *)lab withBeginTime:(NSTimeInterval)beginTime ;
 @end
