@@ -2,8 +2,8 @@
 //  TextViewTool.m
 //  WellnessClub
 //
-//  Created by NewYuLong on 15/12/28.
-//  Copyright © 2015年 sky. All rights reserved.
+//  Created by lujianrong on 16/5/6.
+//  Copyright © 2016年 lujianrong. All rights reserved.
 //
 
 #import "TextViewTool.h"
